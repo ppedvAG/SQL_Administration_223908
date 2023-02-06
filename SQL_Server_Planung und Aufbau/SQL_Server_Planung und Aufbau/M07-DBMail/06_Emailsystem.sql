@@ -1,4 +1,4 @@
-
+--
 --SQL Server ist ein Mail Client.. braucht einen SMTP Server
 --
 --Windows Server bringen einen SMTP Server mit ;-)
