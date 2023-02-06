@@ -1,5 +1,9 @@
    /* Setup
 
+
+
+
+
    Sicherheit
    NT Authentifizierung immer vorhanden
 
@@ -29,7 +33,7 @@
 
 	-nachteil: komplexer in der Praxis
 	sind reine lokale Konten    im Netz mit Computerkonto
-	auch DomUser als Doenstkonten sind möglich
+	auch DomUser als Dienstkonten sind möglich
 
 
 	Pfade
@@ -87,9 +91,9 @@
 	--HyperV-- OS und HyperV muss man 4 GB abziehen
 	
 				RAM							Kerne
-	--HV-DC	   2048 (1024 - 2048)			  2
-	-HV-SQL1   6000 fix                       4
-	-HV-SQL2   4000 fix                       4
+	--HV-DC	   2048 (1024 - 2048)			  2 Dom Controller
+	-HV-SQL1   6000 fix                       4          SQL vorinstalliert
+	-HV-SQL2   4000 fix                       4           nix drauf...
 
 
 
