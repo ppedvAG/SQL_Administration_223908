@@ -24,6 +24,10 @@
 
 ## Security
 ### Login vs User
+### DB Rollen
+### Schema
+### explizite Rechte
+
 
  
 
