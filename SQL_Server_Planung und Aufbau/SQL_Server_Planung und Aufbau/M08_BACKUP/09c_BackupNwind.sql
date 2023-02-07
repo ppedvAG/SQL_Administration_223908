@@ -1,0 +1,20 @@
+BACKUP DATABASE [Northwind] TO  DISK = N'D:\_BACKUP\nwindtz.bak' 
+WITH NOFORMAT, NOINIT,  NAME = N'Northwind-Voll', 
+SKIP, NOREWIND, NOUNLOAD,  STATS = 10
+GO
+
+
+BACKUP DATABASE [Northwind] TO  DISK = N'D:\_BACKUP\nwindtz.bak'
+WITH  DIFFERENTIAL ,
+NOFORMAT, NOINIT,  NAME = N'Northwind-Diff', SKIP,
+NOREWIND, NOUNLOAD,  STATS = 10
+GO
+
+
+ BACKUP LOG [Northwind] TO  DISK = N'D:\_BACKUP\nwindtz.bak'
+ WITH NOFORMAT, NOINIT,  NAME = N'Northwind-Log',   
+ SKIP, NOREWIND, NOUNLOAD,  STATS = 10
+GO
+
+
+--V TTT D TTT D TTT

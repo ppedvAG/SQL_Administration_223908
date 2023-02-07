@@ -6,7 +6,7 @@
 --PK 1:N  FK  ref. Integrität	--kein Stammdatensatz kann gelöscht werden , solange 
 --Fremdschlüsselwerte existieren
 
---kein Kunde kann geöscht werden, solange noch sein ID in Bestellungen auftaucht
+--kein Kunde kann gelöscht werden, solange noch sein ID in Bestellungen auftaucht
 
 
 

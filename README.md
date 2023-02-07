@@ -14,6 +14,17 @@
 
 ## DB Settings
 
+## Backup Restore
+### Restorefälle
+### RecoveryModel
+### Rolle des Tlog
+### Backupstrategie
+### DB trenne und anfügen
+
+
+## Security
+### Login vs User
+
  
 
 
