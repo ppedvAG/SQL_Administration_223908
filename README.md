@@ -27,6 +27,19 @@
 ### DB Rollen
 ### Schema
 ### explizite Rechte
+### Serverrollen
+
+
+## Security Specials
+### Besitzverkettung
+### Besitzwechsel
+
+## Audit
+### Überwachung Server / DB
+
+## Richtlinien
+### Registrierte Server
+### Richtlinien Import Vorlagen
 
 
  
