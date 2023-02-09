@@ -41,6 +41,17 @@
 ### Registrierte Server
 ### Richtlinien Import Vorlagen
 
+## Hochverfügbarkeit
+### Logshipping
+### Mirroring
+### Cluster
+### Hochverfügbarkeitsgruppen
+
+## Monitoring
+### Systemsichten DMVs
+### Free Scripts
+### Aktivitätsmonitor
+### Datensammler
 
  
 
